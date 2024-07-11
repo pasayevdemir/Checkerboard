@@ -1,0 +1,10 @@
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\bin\Debug\DamaTaxtasi.exe.config
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\bin\Debug\DamaTaxtasi.exe
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\bin\Debug\DamaTaxtasi.pdb
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.csproj.AssemblyReference.cache
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.Form1.resources
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.Properties.Resources.resources
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.csproj.GenerateResource.cache
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.csproj.CoreCompileInputs.cache
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.exe
+C:\Users\Damir\source\repos\DamaTaxtasi\DamaTaxtasi\obj\Debug\DamaTaxtasi.pdb
